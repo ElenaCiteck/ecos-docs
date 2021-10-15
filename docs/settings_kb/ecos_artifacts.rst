@@ -73,6 +73,9 @@
       * - app/dev-module
         - ecos-apps
         - 
+      * - integration/camel-dsl
+        - ecos-integrations
+        - Описание Camel контекста  
       * - integrations/credentials
         - ecos-integrations
         - 
@@ -82,6 +85,9 @@
       * - integrations/file-import-config
         - ecos-integrations
         - 
+      * - integration/osgi-bundles
+        - ecos-integrations
+        - OSGI пакет в виде файла JAR  
       * - integrations/recsrc
         - ecos-integrations
         - 
